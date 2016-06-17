@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP API JSON READER
+Plugin Name: LORAX READER
 Plugin URI: http://wordpress.org/extend/plugins/wpapi-json-reader/
 Description: This plugin provide a widget(s) to get, read and show posts from wordpress sites (with WP REST API Installed) to an other(s) wordpress site(s)!
 Author: elsteno
